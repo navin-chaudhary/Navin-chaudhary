@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React and javascript**
 
-- 📫 How to reach me **Navin.im**
+- 📫 How to reach me **hello@navin.bio**
 
 - ⚡ Fun fact **I think we all live in illusions**
 
