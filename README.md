@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hello@navin.bio**
 
-- 👨‍💻 All of my projects are available at **https://navin.bio**
+- 👨‍💻 All of my projects are available at **https://navin.bio/work**
 
 - ⚡ Fun fact **I think we all live in illusions**
 
