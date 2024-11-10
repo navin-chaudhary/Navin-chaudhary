@@ -14,7 +14,7 @@
 
 ```javascript
 const skills = {
-    languages: ['JavaScript','Typescript, 'HTML5', 'CSS3'],
+    languages: ['JavaScript','Typescript', 'HTML5', 'CSS3'],
     frameworks: ['React.js', 'Next.js', 'Node.js'],
     styling: ['Tailwind CSS', 'SASS'],
     tools: ['Git', 'VS Code', 'Chrome DevTools'],
