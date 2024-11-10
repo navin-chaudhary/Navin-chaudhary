@@ -1,22 +1,50 @@
-<h1 align="center">Hi 👋, I'm Navin Chaudhary</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">👋 Hi, I'm Navin Chaudhary</h1>
+<h3 align="center">A passionate Frontend Developer crafting exceptional web experiences 🚀</h3>
 
-- 🌱 I’m currently learning **React js**
-
-- 💬 Ask me about **React and javascript**
-
-- 📫 How to reach me **hello@navin.bio**
-
-- 👨‍💻 All of my projects are available at **https://navin.bio/work**
-
-- ⚡ Fun fact **I think we all live in illusions**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/navinchaud24674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navinchaud24674" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/navin-chaudhary09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navin-chaudhary09" height="30" width="40" /></a>
-<a href="https://instagram.com/navin_chaudhary_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navin_chaudhary_05" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 👨‍💻 About Me
+
+- 🔭 Frontend Developer focused on building responsive and intuitive web applications
+- 🌱 Currently deep diving into **React.js** and modern frontend architecture
+- 💼 Portfolio: [navin.bio/work](https://navin.bio/work)
+- 📫 Reach me at: **hello@navin.bio**
+- ⚡ Fun fact: I believe we all live in illusions - and I turn those illusions into beautiful user interfaces!
+
+### 🛠️ Tech Stack
+
+```javascript
+const skills = {
+    languages: ['JavaScript', 'HTML5', 'CSS3'],
+    frameworks: ['React.js', 'Node.js'],
+    styling: ['SASS', 'Tailwind CSS'],
+    tools: ['Git', 'VS Code', 'Chrome DevTools'],
+    currentlyLearning: ['Advanced React Patterns', 'State Management']
+};
+```
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://twitter.com/navinchaud24674" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/navinchaud24674?style=social" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/navin-chaudhary09" target="_blank">
+    <img src="https://img.shields.io/badge/-Navin%20Chaudhary-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/navin_chaudhary_05" target="_blank">
+    <img src="https://img.shields.io/badge/-navin__chaudhary__05-purple?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+<p align="center">💼 Open to exciting frontend development opportunities!</p>
